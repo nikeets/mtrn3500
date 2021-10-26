@@ -1,0 +1,2 @@
+C:\Users\Coltrane\source\repos\UGV_Assignment1\ProcessManagement\Debug\ProcessManagement.vcxproj.AssemblyReference.cache
+\\Client\C$\Users\Coltrane\source\repos\UGV_Assignment1\ProcessManagement\Debug\ProcessManagement.vcxproj.AssemblyReference.cache
